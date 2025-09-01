@@ -8,5 +8,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.editing-support.multiple-cursors-nvim" },
-  -- import/override with your plugins folder
+  { import = "astrocommunity.motion.marks-nvim" },
+  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+  { import = "astrocommunity.motion.nvim-surround" }
 }
